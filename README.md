@@ -20,6 +20,7 @@ Slicers for interactivity
 Data aggregation & transformation
 Percentage contribution analysis
 Dashboard design principles
+
 📈 Key Analysis Performed
 Wastage by Banner
 Identifies which retail formats contribute most to total wastage
